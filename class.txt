@@ -1,1 +1,2 @@
 This is original text
+This is from sub branch
